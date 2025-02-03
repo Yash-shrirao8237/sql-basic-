@@ -45,4 +45,4 @@ values
  where customerId <5;
 
 select* FROM customer
-order by 
+order by asc;
